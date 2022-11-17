@@ -6,11 +6,12 @@ I develop Landing pages, Smart contracts, Web3 integrated websites, and more!
 ## Languages and tools.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title='solidity' alt='solidity' width="40" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title='jsreact' alt='jsreact' width="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title='python' alt='python' width="40" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title='github' alt='github' width="40" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title='vscode' alt='vscode' width="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title='nodejs' alt='nodejs' width="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title='jsreact' alt='jsreact' width="40" /> &nbsp;
+  <img src="https://chain-battles-create-web3-dapp.vercel.app/logo.svg" title='alchemy' alt='alchemy' width="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title='vscode' alt='vscode' width="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title='github' alt='github' width="40" /> &nbsp;
 </div>
 
 <br>
