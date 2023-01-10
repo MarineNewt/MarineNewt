@@ -3,7 +3,7 @@ My name is Frankie, but you can also call me Newt...
 
 I develop Landing pages, Smart contracts, Web3 integrated websites, and more!
 
-View my <a href="https://portfolio-newt.netlify.app/">Website</a> here.
+View my <a href="https://portfolio-newt.netlify.app/" target="_blank" rel="noreferrer noopener">Website</a> here.
 
 ## Languages and tools.
 <div>
