@@ -3,6 +3,8 @@ My name is Frankie, but you can also call me Newt...
 
 I develop Landing pages, Smart contracts, Web3 integrated websites, and more!
 
+View my <a href="https://portfolio-newt.netlify.app/">Website</a> here.
+
 ## Languages and tools.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title='solidity' alt='solidity' width="40" /> &nbsp;
