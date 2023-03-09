@@ -20,7 +20,7 @@ View my <a href="https://newt9.dev/" target="_blank" rel="noreferrer noopener">W
 
 
 ### For any inquiries feel free to reach out!
-<a href="mailto: frankieiii15@comcast.net"> <img src="https://img.icons8.com/bubbles/344/new-post.png" title='emial' alt='email' width="80" />  </a>
+<a href="mailto: Dev@newt9.dev"> <img src="https://img.icons8.com/bubbles/344/new-post.png" title='email' alt='email' width="80" />  </a>
 
 
 <!--
