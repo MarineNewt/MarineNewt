@@ -1,10 +1,10 @@
-### Hello there <img src="https://media2.giphy.com/media/2k20U6m5zKTBKduiJa/giphy.gif?cid=ecf05e47qjg4cort769b4suh2gndczvc8f4b47jikxz1if13&rid=giphy.gif&ct=s" title='hello' alt='hello' width="40" /> &nbsp;
+<b>Hello there!</b> <img src="https://media.giphy.com/media/2k20U6m5zKTBKduiJa/giphy.gif" title='hello' alt='hello' width="40" /> &nbsp;   
 My name is Frankie, but you can also call me Newt...
 
 I am a fullstack developer with experience in creating Landing pages, Business websites, Entertainment services, Educational websites, Smart contracts, Web3 integrated websites, and more!  
 ~Currently expanding my knowledge of creating programs and materials related to Biology Research. :mouse:
 
-View my <a href="https://newt9.dev/" target="_blank" rel="noreferrer noopener">Website</a> here.
+View my <a href="https://newt9.dev/" target="_blank" rel="noreferrer noopener">portfolio</a> here.
 
 ## Languages and tools.
 <div>
