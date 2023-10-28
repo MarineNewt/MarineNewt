@@ -2,7 +2,6 @@
 My name is Frankie, but you can also call me Newt...
 
 I am a fullstack developer with experience in creating Landing pages, Business websites, Entertainment services, Educational websites, Smart contracts, Web3 integrated websites, and more!  
-~Currently expanding my knowledge of creating programs and materials related to Biology Research. :mouse:
 
 View my <a href="https://newt9.dev/" target="_blank" rel="noreferrer noopener">portfolio</a> here.
 
