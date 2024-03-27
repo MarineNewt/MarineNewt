@@ -10,6 +10,7 @@ View my <a href="https://newt9.dev/" target="_blank" rel="noreferrer noopener">p
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title='nodejs' alt='nodejs' width="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title='jsreact' alt='jsreact' width="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title='nextjs' alt='nextjs' width="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title='typescript' alt='typescript' width="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title='solidity' alt='solidity' width="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title='python' alt='python' width="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title='mongodb' alt='mongodb' width="40" /> &nbsp;
