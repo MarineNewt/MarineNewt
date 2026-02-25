@@ -1,9 +1,8 @@
 <b>Hello there!</b> <img src="https://media.giphy.com/media/2k20U6m5zKTBKduiJa/giphy.gif" title='hello' alt='hello' width="40" /> &nbsp;   
-My name is Frankie, but you can also call me Newt...
 
-I am a fullstack developer with experience in creating Landing pages, Business websites, Entertainment services, Educational websites, Smart contracts, Automation Scripts and more!  
+I am an indie fullstack developer with experience in hacking together a wide range of projects across different languages and frameworks. While coding is only one of my many hobbies, I always enjoy putting together MVPs and experimenting with new tech. Although many of my projects are temporary I am working on building some more permanent tools and aesthetics for everyone to enjoy. 
 
-View my <a href="https://newt9.dev/" target="_blank" rel="noreferrer noopener">portfolio</a> here.
+Learn more about me <a href="https://newt9.xyz/" target="_blank" rel="noreferrer noopener">here</a>.
 
 ## Languages and tools.
 <div>
